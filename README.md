@@ -1,10 +1,10 @@
-# spark-tutorial
+# spark-for-everyone
 
-> intro to spark for parallel programming
+> friendly introduction to spark for parallel programming
 
-For the [`NEUROHACKWEEK`](https://neurohackweek.github.io/nhw2016/) course at University of Washington eScience Institute.
+Prepared for the [`NEUROHACKWEEK`](https://neurohackweek.github.io/nhw2016/) course at University of Washington eScience Institute.
 
-Contents:
+> contents
 
 ```python
 slides.md # the slides
