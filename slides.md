@@ -3,6 +3,10 @@
 
 Welcome to the spark tutorial!
 
+- We're going to walk through the core of the spark API in python. 
+- We won't cover cluster deployment.
+- But if it runs locally, it should run on a cluster.
+
 ## about me
 
 - my name is jeremy freeeman
@@ -14,6 +18,8 @@ Welcome to the spark tutorial!
 
 # installation
 
+It's pretty easy.
+
 - download spark from apache.spark.org
 - select 2.0.0, prebuilt for hadoop 2.7, direct download
 - add PYSPARK_DRIVER_PYTHON=ipython to your bash profile
@@ -21,6 +27,8 @@ Welcome to the spark tutorial!
 ---
 
 # starting
+
+Run the command line tool.
 
 - navigate to your spark installation
 - run ./bin/pyspark
